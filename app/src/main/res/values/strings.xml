@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LottieAnimations</string>
+    <string name="fast_delivery">Fast Delivery</string>
+    <string name="no_internet">No Internet</string>
+    <string name="please_wait">Please Wait...</string>
+    <string name="check">Check</string>
+    <string name="day_and_night">Day and Night</string>
+</resources>
